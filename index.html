@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="styles.css"> <!-- Link to your CSS file if needed -->
+</head>
+<body>
+    <h1>Welcome to My Portfolio</h1>
+    <img src="https://raw.githubusercontent.com/googs0/googs0.github.io/main/assets/MG_Cropped.jpg" alt="Your Image" class="circular-image">
+    <h2>About Me</h2>
+    <p id="about-me"></p>
 
+    <!-- Include JavaScript to load YAML data -->
+    <script src="jsyaml.min.js"></script>
+    <script>
+        fetch('your-config.yml') // Replace with the path to your YAML configuration file
+            .then(response => response.text())
+            .then(yamlData => {
+                const data = jsyaml.load(yamlData);
+                document.getElementById('about-me').textContent = data.about;
+            });
+    </script>
+</body>
+</html>
