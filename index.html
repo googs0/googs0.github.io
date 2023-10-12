@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>My Portfolio</title>
-    <link rel="stylesheet" type="text/css" href="styles.css"> <!-- Link to your CSS file if needed -->
+    <link rel="stylesheet" type="text/css" href="styles.css"> 
 </head>
 <body>
     <h1>Welcome to My Portfolio</h1>
@@ -11,10 +11,9 @@
     <h2>About Me</h2>
     <p id="about-me"></p>
 
-    <!-- Include JavaScript to load YAML data -->
-    <script src="jsyaml.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/js-yaml/dist/js-yaml.min.js"></script> 
     <script>
-        fetch('__config.yml') // Replace with the path to your YAML configuration file
+        fetch('https://raw.githubusercontent.com/googs0/googs0.github.io/main/__config.yml') // Replace with the path to your YAML configuration file
             .then(response => response.text())
             .then(yamlData => {
                 const data = jsyaml.load(yamlData);
