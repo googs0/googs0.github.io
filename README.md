@@ -30,7 +30,8 @@ Data-driven insights and a committment to continual learning and innovation are 
 Feel free to get in touch! 
 
 ### Connect
-* mgug1455@gmail.com
-* www.linkedin.com/in/mgug1455/ 
+mgug1455@gmail.com
+<br>
+[text](www.linkedin.com/in/mgug1455/){:target="_blank"}
 
 
