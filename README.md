@@ -32,6 +32,6 @@ Feel free to get in touch!
 ### Connect
 mgug1455@gmail.com
 <br>
-[text](www.linkedin.com/in/mgug1455/){:target="_blank"}
+[Linkedin](www.linkedin.com/in/mgug1455/) {:target="_blank"}
 
 
