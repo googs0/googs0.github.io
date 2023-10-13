@@ -28,6 +28,6 @@ Aspiring data engineer and software developer with a unique foundation in sound 
 
 ### Connect
 * mgug1455@gmail.com
-* www.linkedin.com/in/mgug1455/{:target="_blank"}
+* www.linkedin.com/in/mgug1455/ + {:target="_blank"}
 
 
