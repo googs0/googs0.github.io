@@ -17,8 +17,6 @@
 
 ### Projects
 - IoT / biometric data audiovisual ecosystem
-            implemented an IoT-based system to capture biometric data and visualize it in an audiovisual             ecosystem. Demonstrated a deep understanding of data integration and multimedia technology,              including ETL pipeline management for data transformation and loading
-  
 - New York Times Birthday Headlines
 - Tour De France Metric Analysis
 - Fortune 500 Data Analytics
