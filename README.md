@@ -7,11 +7,9 @@
 - Data Analysis
 - Pandas
 - Machine Learning
-- Data Visualization
-- Data Cleaning
+- Data Visualization and Cleaning
 - SQL
 - Git and version control
-- R
 - ETL Pipeline Management
 - Agile Software Development
 
