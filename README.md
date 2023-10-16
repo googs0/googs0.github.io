@@ -1,6 +1,6 @@
 # googs0.github.io
 
-## 
+## Emerging Data-Driven Programmer with Sound Engineering Expertise and Creative Flair
 
 ### Skills
 - Python 
