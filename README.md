@@ -26,9 +26,11 @@
 **Aspiring data engineer and software developer with a unique background in sound engineering, audiovisuals, and art.** I hold a Master's degree in Sound and Visual Technology and have several accreditations in Python, data analytics, and software development. My motivation to transition into the world of programming was sparked by an audiovisual project where I transformed biophysical data from IoT devices and an EKG into an immersive audiovisual performance. 
 <br>
 <br>
-Data-driven insights and a committment to continual learning and innovation are what fuels my passion for data and programming. I
-'m excited to embark on this journey and eager to contribute my skills and enthusiasm to meaningful projects and collaborative endeavors. Let's connect and create together. 
+Data-driven insights and a committment to continual learning and innovation are what fuels my passion for data and programming. I'm excited to embark on this journey and eager to contribute my skills and enthusiasm to meaningful projects and collaborative endeavors. Let's connect and create together. 
 Feel free to get in touch! 
+
+### Resume
+[Michael Gugliotti Resume](/Michael_Gugliotti_Resume_Placeholder)
 
 ### Let's Connect
 [mgug1455@gmail.com](mailto:mgug1455@gmail.com)
