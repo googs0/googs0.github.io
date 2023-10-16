@@ -32,7 +32,7 @@ Feel free to get in touch!
 ### Resume
 [Michael Gugliotti Resume 2023](/Michael_Gugliotti_Resume_Placeholder)
 
-### Let's Connect
+### Connect
 [mgug1455@gmail.com](mailto:mgug1455@gmail.com)
   <br>
 [LinkedIn](https://www.linkedin.com/in/mgug1455/)
