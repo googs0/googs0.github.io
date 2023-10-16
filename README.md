@@ -30,12 +30,12 @@ Data-driven insights and a committment to continual learning and innovation are 
 Feel free to get in touch! 
 
 ### Certifications 
+
+[Credly Badges](https://www.credly.com/users/michael-gugliotti/badges)
+
 - PCEP Certificate
 - UMBC Software Developer Foundations Professional Certificate
 - Google Data Analytics Certificate
-  <br>
-  
-[Credly Badges](https://www.credly.com/users/michael-gugliotti/badges)
 
 ### Resume
 [Michael Gugliotti Resume 2023](/Michael_Gugliotti_Resume_Placeholder)
