@@ -31,6 +31,6 @@ Data-driven insights and a committment to continual learning and innovation are 
 Feel free to get in touch! 
 
 ### Connect
-- Email: [mgug1455@gmail.com](mailto:mgug1455@gmail.com)
+[mgug1455@gmail.com](mailto:mgug1455@gmail.com)
   <br>
-- LinkedIn: [Your LinkedIn Profile URL](Your LinkedIn Profile URL)
+[Linkedin](https://www.linkedin.com/in/mgug1455/)
