@@ -18,7 +18,7 @@
 - [New York Times Birthday Headlines](https://github.com/googs0/NYT_Birthday_API/tree/main)
 - [Tour De France Metric Analysis](https://github.com/googs0/TDF_Analysis/tree/main)
 - [Fortune 500 Data Analytics](https://github.com/googs0/fortune500_analytics/tree/main)
-- Text Analysis with "Dracula"
+- [Text Analysis with "Dracula" by Bram Stoker](https://github.com/googs0/Word_Analysis_Dracula/tree/main)
 - [National Park Service API lookup](https://github.com/googs0/NPS_API_class/tree/main)
 
 ### About Me
