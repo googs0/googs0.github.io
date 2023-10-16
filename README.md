@@ -10,6 +10,7 @@
 - ETL Pipeline Management
 - Data Visualization and Cleaning
 - Machine Learning
+- Visual Programming with Max 8
 - SQL
 - Git and version control
 
