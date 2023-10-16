@@ -35,7 +35,7 @@ Feel free to get in touch!
 - Google Data Analytics Certificate
   <br>
   
-**[Credly Badges](https://www.credly.com/users/michael-gugliotti/badges)**
+[Credly Badges](https://www.credly.com/users/michael-gugliotti/badges)
 
 ### Resume
 [Michael Gugliotti Resume 2023](/Michael_Gugliotti_Resume_Placeholder)
