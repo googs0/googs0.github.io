@@ -1,7 +1,6 @@
 # googs0.github.io
 
-## Michael Gugliotti
-**Aspiring data engineer and software developer with a unique background in sound engineering, audiovisuals, and art.** 
+## Aspiring data engineer and software developer with a unique background in sound engineering, audiovisuals, and art
 
 ### Skills
 - Python 
