@@ -30,7 +30,7 @@ Data-driven insights and a committment to continual learning and innovation are 
 Feel free to get in touch! 
 
 ### Resume
-[Michael Gugliotti Resume](/Michael_Gugliotti_Resume_Placeholder)
+[Michael Gugliotti Resume 2023](/Michael_Gugliotti_Resume_Placeholder)
 
 ### Let's Connect
 [mgug1455@gmail.com](mailto:mgug1455@gmail.com)
