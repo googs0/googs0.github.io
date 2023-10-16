@@ -32,7 +32,7 @@ Data-driven insights and a committment to continual learning and innovation are 
 'm excited to embark on this journey and eager to contribute my skills and enthusiasm to meaningful projects and collaborative endeavors. Let's connect and create together. 
 Feel free to get in touch! 
 
-### Connect
+### Let's Connect
 [mgug1455@gmail.com](mailto:mgug1455@gmail.com)
   <br>
 [LinkedIn](https://www.linkedin.com/in/mgug1455/)
