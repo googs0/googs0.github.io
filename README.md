@@ -15,7 +15,7 @@
 
 ### Projects
 - IoT / biometric data audiovisual ecosystem
-- New York Times Birthday Headlines
+- [New York Times Birthday Headlines](https://github.com/googs0/NYT_Birthday_API/tree/main)
 - Tour De France Metric Analysis
 - [Fortune 500 Data Analytics](https://github.com/googs0/fortune500_analytics/tree/main)
 - Text Analysis with "Dracula"
