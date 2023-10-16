@@ -29,6 +29,15 @@
 Data-driven insights and a committment to continual learning and innovation are what fuels my passion for data and programming. I'm excited to embark on this journey and eager to contribute my skills and enthusiasm to meaningful projects and collaborative endeavors. Let's connect and create together. 
 Feel free to get in touch! 
 
+### Certifications 
+- PCEP Certificate
+- UMBC Software Developer Foundations Professional Certificate
+- Google Data Analytics Certificate
+
+<br>
+
+[Credly](https://www.credly.com/users/michael-gugliotti/badges)
+
 ### Resume
 [Michael Gugliotti Resume 2023](/Michael_Gugliotti_Resume_Placeholder)
 
