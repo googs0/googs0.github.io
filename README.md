@@ -19,7 +19,7 @@
 - Tour De France Metric Analysis
 - [Fortune 500 Data Analytics](https://github.com/googs0/fortune500_analytics/tree/main)
 - Text Analysis with "Dracula"
-- National Park Service API lookup
+- [National Park Service API lookup](https://github.com/googs0/NPS_API_class/tree/main)
 
 ### About Me
 **Aspiring data engineer and software developer with a unique background in sound engineering, audiovisuals, and art.** 
