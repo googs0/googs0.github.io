@@ -14,7 +14,7 @@
 - Git and version control
 
 ### Projects
-- IoT / biometric data audiovisual ecosystem
+- [IoT / Biometric Data Audiovisual Ecosystem](https://github.com/googs0/Audiovisual_IoT_EKG/tree/main)
 - [New York Times Birthday Headlines](https://github.com/googs0/NYT_Birthday_API/tree/main)
 - [Tour De France Metric Analysis](https://github.com/googs0/TDF_Analysis/tree/main)
 - [Fortune 500 Data Analytics](https://github.com/googs0/fortune500_analytics/tree/main)
