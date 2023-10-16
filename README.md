@@ -17,7 +17,7 @@
 - IoT / biometric data audiovisual ecosystem
 - New York Times Birthday Headlines
 - Tour De France Metric Analysis
-- Fortune 500 Data Analytics
+- [Fortune 500 Data Analytics](https://github.com/googs0/fortune500_analytics/tree/main)
 - Text Analysis with "Dracula"
 - National Park Service API lookup
 
