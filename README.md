@@ -23,9 +23,7 @@
 - [National Park Service API lookup](https://github.com/googs0/NPS_API_class/tree/main)
 
 ### About Me
-**Aspiring data engineer and software developer with a unique background in sound engineering, audiovisuals, and art**
-
-I hold a Master's degree in Sound and Visual Technology and have several accreditations in Python, data analytics, and software development. My motivation to transition into the world of programming was sparked by an audiovisual project where I transformed biophysical data from IoT devices and an EKG into an immersive audiovisual performance. 
+**Aspiring data engineer and software developer with a unique background in sound engineering, audiovisuals, and art.** I hold a Master's degree in Sound and Visual Technology and have several accreditations in Python, data analytics, and software development. My motivation to transition into the world of programming was sparked by an audiovisual project where I transformed biophysical data from IoT devices and an EKG into an immersive audiovisual performance. 
 <br>
 <br>
 Data-driven insights and a committment to continual learning and innovation are what fuels my passion for data and programming. I
