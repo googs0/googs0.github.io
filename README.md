@@ -22,7 +22,7 @@
 - National Park Service API lookup
 
 ### About Me
-####Aspiring data engineer and software developer with a unique background in sound engineering, audiovisuals, and art. 
+**Aspiring data engineer and software developer with a unique background in sound engineering, audiovisuals, and art.** 
 <br>
 <br>
 I hold a Master's degree in Sound and Visual Technology and have several accreditations in Python, data analytics, and software development. My motivation to transition into the world of programming was sparked by an audiovisual project where I transformed biophysical data from IoT devices and an EKG into an immersive audiovisual performance. 
