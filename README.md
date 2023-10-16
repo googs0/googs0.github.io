@@ -33,7 +33,6 @@ Feel free to get in touch!
 - PCEP Certificate
 - UMBC Software Developer Foundations Professional Certificate
 - Google Data Analytics Certificate
-  
   <br>
   
 **[Credly Badges](https://www.credly.com/users/michael-gugliotti/badges)**
