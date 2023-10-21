@@ -11,7 +11,7 @@
 - Data Visualization and Cleaning
 - Machine Learning
 - Visual Programming with Max 8
-- SQL
+- SQL and NoSQL databases
 - Git and version control
 
 ### Projects
