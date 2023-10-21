@@ -23,11 +23,13 @@
 - [National Park Service API lookup](https://github.com/googs0/NPS_API_class/tree/main){:target="_blank" rel="noopener"}
 
 ### About Me
-**Aspiring data engineer and software developer with a unique background in sound engineering, audiovisuals, and art.** I hold a Master's degree in Sound and Visual Technology and have several accreditations in Python, data analytics, and software development. My motivation to transition into the world of programming was sparked by an audiovisual project where I transformed biophysical data from IoT devices and an EKG into an immersive audiovisual performance. 
+**As an budding programmer, data engineer, and software developer**, I bring a unique blend of expertise to the world of programming, combining my Master's degree in Sound and Visual Technology with a strong foundation in Python, data analytics, and software development. My journey into the programming world was ignited by an audiovisual project in which I utlized biophysical data from IoT devices and an EKG to create an immersive audiovisual experience. My resume showcases a diverse skill set that ranges from Python programming and data analysis to sound engineering and audiovisual production. With certifications in Google Data Analytics, software development, and Python programming, I've honed my ability to work with complex datasets and derive meaningful insights.
 <br>
 <br>
-Data-driven insights and a committment to continual learning and innovation are what fuels my passion for data and programming. I'm excited to embark on this journey and eager to contribute my skills and enthusiasm to meaningful projects and collaborative endeavors. Let's connect and create together. 
-Feel free to get in touch! 
+I've used my analytical skills to develop Python scripts that access APIs, analyze financial metrics, and dissect complex sports data, demonstrating my commitment to meticulous data scrutiny and interpretation. Additionally, my experience as an independent audio engineer has equipped me with valuable skills in visual programming,  data aggregation using IoT devices, troubleshootings and debugging, along with a creative approach to problem solving.
+<br>
+<br>
+What drives my passion for programming is the opportunity to harness data-driven insights to make impactful decisions and continually innovate. I am enthusiastic about contributing my skills and knowledge to meaningful projects and collaborative endeavors. I’m eager to contribute my skills and enthusiasm to meaningful projects and collaborative endeavors. Let's collaborate and bring innovative ideas to life. Feel free to get in touch! 
 
 ### Certifications 
 
