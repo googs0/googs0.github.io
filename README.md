@@ -38,7 +38,7 @@ Feel free to get in touch!
 - Google Data Analytics Certificate
 
 ### Resume
-[Michael Gugliotti Resume 2023](/assets/){:target="_blank" rel="noopener"}
+[Michael Gugliotti Resume 2023](/assets/Michael-Gugliotti-Resume-Programming-2023-[Baltimore-Orioles].pdf){:target="_blank" rel="noopener"}
 
 ### Connect
 [mgug1455@gmail.com](mailto:mgug1455@gmail.com){:target="_blank" rel="noopener"}
