@@ -19,7 +19,7 @@
 - [New York Times Birthday Headlines](https://github.com/googs0/NYT_Birthday_API/tree/main){:target="_blank" rel="noopener"}
 - [Tour De France Metric Analysis](https://github.com/googs0/TDF_Analysis/tree/main){:target="_blank" rel="noopener"}
 - [Fortune 500 Data Analytics](https://github.com/googs0/fortune500_analytics/tree/main){:target="_blank" rel="noopener"}
-- [Text Analysis with "Dracula" by Bram Stoker](https://github.com/googs0/Dracula_NLP_Analytics){:target="_blank" rel="noopener"}
+- [NLP Text Analysis with "Dracula" by Bram Stoker](https://github.com/googs0/Dracula_NLP_Analytics){:target="_blank" rel="noopener"}
 - [National Park Service API lookup](https://github.com/googs0/NPS_API_class/tree/main){:target="_blank" rel="noopener"}
 
 ### About Me
