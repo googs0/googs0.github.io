@@ -1,8 +1,4 @@
----
----
-
-@import "_sass/_variables";
-@import "{{ site.theme }}";
+@import "_variables";
 
 body {
   background-color: $body-bg !important;
