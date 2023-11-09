@@ -1,8 +1,8 @@
-+++
-+++
+---
+---
 
 @import "{{ site.theme }}";
 
-body {
+body.theme-minimal {
   background-color: #616161; 
 }
