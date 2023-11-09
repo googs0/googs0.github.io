@@ -3,15 +3,14 @@
 ### Emerging Data-Driven Programmer with Sound Engineering Expertise and Creative Flair
 
 ### Skills
-- **Python**
+- **Programming Languages:** Python working knowledge of C, Javascript, CSS, and HTML
 - **Data Analysis:** Pandas, NumPy, SciPy, Scikit-learn, Statsmodels
 - **SQL and NoSQL databases:** MySQL, PostgreSQL, MongoDB
 - **Machine Learning and Natural Language Processing (NLP)**
 - **ETL Pipeline Management:** PySpark
 - **Data Visualization:** Python (Matplotlib, Plotly, Seaborn), R (ggplot2, tidyverse), and Tableau
 - **Agile Software Development:** Scrum, Kanban
-- **Visual Programming:** Max 8
-- **Languages:** Working knowledge of C, Javascript, CSS, and HTML
+- **Visual Programming:** Max 8 
 - **Version Control:** Git 
 
 ### Projects
