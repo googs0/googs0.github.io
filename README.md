@@ -1,18 +1,18 @@
-# googs0.github.io
+## googs0.github.io
 
-## Emerging Data-Driven Programmer with Sound Engineering Expertise and Creative Flair
+### Emerging Data-Driven Programmer with Sound Engineering Expertise and Creative Flair
 
 ### Skills
-- Python 
-- Data Analysis
-- Pandas
-- Agile Software Development
-- ETL Pipeline Management
-- Data Visualization and Cleaning
-- Machine Learning
-- Visual Programming with Max 8
-- SQL and NoSQL databases
-- Git and version control
+- **Python**
+- **Data Analysis:** Pandas, NumPy, SciPy, Scikit-learn, Statsmodels
+- **SQL and NoSQL databases:** MySQL, PostgreSQL, MongoDB
+- **Machine Learning and Natural Language Processing (NLP)**
+- **ETL Pipeline Management:** PySpark
+- **Data Visualization:** Python (Matplotlib, Plotly, Seaborn), R (ggplot2, tidyverse), and Tableau
+- **Agile Software Development:** Scrum, Kanban
+- **Visual Programming:** Max 8
+- **Languages:** Working knowledge of C, Javascript, CSS, and HTML
+- **Version Control:** Git 
 
 ### Projects
 - [IoT / Biometric Data Audiovisual Ecosystem Transforming Data in Art](https://github.com/googs0/Audiovisual_IoT_EKG/tree/main){:target="_blank" rel="noopener"}
