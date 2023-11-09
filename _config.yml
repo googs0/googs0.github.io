@@ -4,3 +4,4 @@ description: Programming Portfolio
 show_downloads: true
 theme: jekyll-theme-minimal
 markdown: kramdown
+custom_styles: "{% include custom-styles.html %}"
