@@ -1,3 +1,6 @@
+@import "variables";
+@import "{{ site.theme }}";
+
 body {
-  background-color: #616161; 
+  background-color: $body-bg;
 }
