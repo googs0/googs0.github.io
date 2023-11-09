@@ -3,7 +3,7 @@
 ### Emerging Data-Driven Programmer with Sound Engineering Expertise and Creative Flair
 
 ### Skills
-- **Programming Languages:** Python working knowledge of C, Javascript, CSS, and HTML
+- **Programming Languages:** Python (with working knowledge of C, Java, JavaScript, CSS, and HTML)
 - **Data Analysis:** Pandas, NumPy, SciPy, Scikit-learn, Statsmodels
 - **SQL and NoSQL databases:** MySQL, PostgreSQL, MongoDB
 - **Machine Learning and Natural Language Processing (NLP)**
