@@ -4,3 +4,6 @@ description: Programming Portfolio
 show_downloads: true
 theme: jekyll-theme-minimal
 markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: :compressed
