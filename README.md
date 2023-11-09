@@ -14,13 +14,13 @@
 - **Version Control:** Git 
 
 ### Projects
-- [IoT / Biometric Data Audiovisual Ecosystem Transforming Data in Art](https://github.com/googs0/Audiovisual_IoT_EKG/tree/main){:target="_blank" rel="noopener"}
-- [NYT Archive NLP Analysis with Sentiment Analysis, Named Entity Recognition, Data Analysis, Visualization, and Report Generation](https://github.com/googs0/NYT_Text_Analysis_Toolkit){:target="_blank" rel="noopener"}
-- [Tour De France Metric Analysis with Forecasting, Time Series Analysis, Clustering, Visualization, and Hypothesis Testing](https://github.com/googs0/TourDeFrance_Stages_Analysis){:target="_blank" rel="noopener"}
-- [Fortune 500 Data Analytics with Linear Regression, Predictive Modeling, and Visualization](https://github.com/googs0/Fortune500_analytics){:target="_blank" rel="noopener"}
-- [NLP Text Analysis with "Dracula" by Bram Stoker](https://github.com/googs0/Dracula_NLP_Analytics){:target="_blank" rel="noopener"}
-- [National Park Info with Advanced Data Retrieval, Database Management, Geospatial Analysis, and Web Scraping Integration](https://github.com/googs0/National_Park_Info_Analysis){:target="_blank" rel="noopener"}
-- [MLB Player Sabermetric Statistics Processor](https://github.com/googs0/MLB_Player_Stats_Processor){:target="_blank" rel="noopener"}
+- [Biometric AV Performance Engine](https://github.com/googs0/AudiovisualBiophysicalPerformanceEngine){:target="_blank" rel="noopener"}
+- [NYT Archive API NLP Toolkit](https://github.com/googs0/NYTarchiveTextExplorerAPI){:target="_blank" rel="noopener"}
+- [Tour De France Metric Analytics](https://github.com/googs0/TourDeFranceStagesAnalysis){:target="_blank" rel="noopener"}
+- [Fortune 500 Revenue Insights and Linear Regression](https://github.com/googs0/Fortune500LinearExplorer){:target="_blank" rel="noopener"}
+- [NLP Text Analysis with "Dracula" by Bram Stoker](https://github.com/googs0/DraculaTextAnalyticsNLP){:target="_blank" rel="noopener"}
+- [National Park Advanced Data Explorer](https://github.com/googs0/NationalParkDataSyncTool){:target="_blank" rel="noopener"}
+- [MLB Sabermetric Player Statistics Processor](https://github.com/googs0/PlayerDataProcessorMLB.git){:target="_blank" rel="noopener"}
 
 ### About Me
 **As a budding programmer, data engineer, and software developer**, I bring a unique blend of expertise to the world of programming, combining my Master's degree in Sound and Visual Technology with a strong foundation in Python, data analytics, and software development. My journey into the programming world was ignited by an audiovisual project in which I utlized biophysical data from IoT devices and an EKG to create an immersive audiovisual experience. My resume showcases a diverse skill set that ranges from Python programming and data analysis to sound engineering and audiovisual production. With certifications in Google Data Analytics, software development, and Python programming, I've honed my ability to work with complex datasets and derive meaningful insights.
