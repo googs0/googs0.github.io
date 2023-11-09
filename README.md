@@ -6,7 +6,7 @@
 - **Programming Languages:** Python (with working knowledge of C, Java, JavaScript, CSS, and HTML)
 - **Data Analysis:** Pandas, NumPy, SciPy, Scikit-learn, Statsmodels
 - **SQL and NoSQL databases:** MySQL, PostgreSQL, MongoDB
-- **Machine Learning and Natural Language Processing (NLP)**
+- **Machine Learning and Natural Language Processing (NLP):** Scikit-learn, PyTorch, Wekinator, NLTK, SpaCy
 - **ETL Pipeline Management:** PySpark
 - **Data Visualization:** Python (Matplotlib, Plotly, Seaborn), R (ggplot2, tidyverse), and Tableau
 - **Agile Software Development:** Scrum, Kanban
