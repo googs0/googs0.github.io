@@ -1,16 +1,15 @@
-<style>
-  body {
-    padding: 20px !important;
-  }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Other head content -->
 
-  .wrapper {
-    max-width: 80% !important;
-    margin: 0 auto !important;
-  }
+  <!-- Link to your custom CSS file -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/path/to/custom-styles.css">
 
-  section {
-    width: 70% !important;
-    float: right !important;
-    padding-bottom: 20px !important;
-  }
-</style>
+  <!-- Include custom styles from custom-styles.html -->
+  {% include custom-styles.html %}
+</head>
+<body>
+  {{ content }}
+</body>
+</html>
