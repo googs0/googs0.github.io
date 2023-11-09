@@ -1,0 +1,14 @@
+body {
+  padding: 20px !important;
+}
+
+.wrapper {
+  max-width: 80% !important;
+  margin: 0 auto !important;
+}
+
+section {
+  width: 70% !important;
+  float: right !important;
+  padding-bottom: 20px !important;
+}
