@@ -13,7 +13,7 @@
 
 ### Projects
 - [NYT Archive API NLP Toolkit](https://github.com/googs0/NYTarchiveTextExplorerAPI){:target="_blank" rel="noopener"}
-- [FrameJam: Artistic Video Processor](https://github.com/googs0/FrameJam)){:target="_blank" rel="noopener"}
+- [FrameJam: Artistic Video Processor](https://github.com/googs0/FrameJam){:target="_blank" rel="noopener"}
 - [MLB Sabermetric Player Statistics Processor](https://github.com/googs0/PlayerDataProcessorMLB){:target="_blank" rel="noopener"}
 - [National Park Advanced Data Explorer](https://github.com/googs0/NationalParkDataSyncTool){:target="_blank" rel="noopener"}
 - [Tour De France Metric Analytics](https://github.com/googs0/TourDeFranceStagesAnalysis){:target="_blank" rel="noopener"}
