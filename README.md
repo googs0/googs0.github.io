@@ -3,7 +3,7 @@
 ### Emerging Data-Driven Programmer with Sound Engineering Expertise and Creative Flair
 
 ### Skills
-- **Programming Languages:** Python (with working knowledge of C, Java, JavaScript, CSS, and HTML)
+- **Programming Languages:** Python, SQL, Go (with working knowledge of C, Java, JavaScript, CSS, and HTML)
 - **SQL and NoSQL databases:** MySQL, PostgreSQL, MongoDB
 - **Data Analysis:** Pandas, NumPy, SciPy, Scikit-learn, Statsmodels, Excel
 - **Machine Learning and Natural Language Processing (NLP)**: Tensorflow, PyTorch, Wekinator, NLTK, SpaCy
@@ -23,13 +23,13 @@
 
 
 ### About Me
-**As a budding programmer and data engineer**, I bring a unique blend of expertise to the world of programming, combining my Master's degree in Sound and Visual Technology with a strong foundation in Python, data analytics, and software development. My journey into the programming world was ignited by an audiovisual project in which I utlized biophysical data from IoT devices and an EKG to create an immersive audiovisual experience. My resume showcases a diverse skill set that ranges from Python programming and data analysis to sound engineering and audiovisual production. With certifications in Google Data Analytics, software development, and Python programming, I've honed my ability to work with complex datasets and derive meaningful insights.
+**As a budding programmer and data analyst**, I bring a unique blend of knowledge to the world of programming, integrating my Master's degree in Sound and Visual Technology with a strong foundation in Python, SQL, Go, data analytics, and software development. My journey into programming was ignited by an audiovisual project in which I utlized biophysical data from movement sensors and an EKG to create an immersive audiovisual ecosystem for performers. My resume showcases a diverse skill set that ranges from Python programming and data analysis to sound engineering and audiovisual production. With certifications in Google Data Analytics, software development, and Python, I've honed my ability to work with complex datasets and derive meaningful insights.
 <br>
 <br>
-I've used my analytical skills to develop Python scripts that access APIs, analyze financial metrics, and dissect complex sports data, demonstrating my commitment to meticulous data scrutiny and interpretation. Additionally, my experience as an independent audio engineer has equipped me with valuable skills in visual programming, data aggregation, strategic decision-making, troubleshooting and debugging, and a creative approach to problem solving.
+I've used my analytical skills to develop Python scripts that access APIs, analyze financial metrics, and dissect complex sports data, demonstrating my commitment to meticulous data scrutiny and interpretation. Additionally, my experience as an independent audio engineer has equipped me with valuable skills in visual programming, data aggregation, strategic decision-making, project management, troubleshooting and debugging, and a creative approach to problem solving.
 <br>
 <br>
-What drives my passion for programming is the opportunity to harness the power of data to make impactful decisions and continually innovate. I’m eager to contribute my skills and enthusiasm to meaningful projects and collaborative endeavors. Let's collaborate and bring innovative ideas to life. Feel free to get in touch! 
+What drives my passion for programming is the opportunity to harness the power of data to aid in decision-making processes and drive continuous innovation. I’m eager to contribute my skills, enthusiasm, and creativity to projects. Let's collaborate and bring innovative ideas to life.
 
 ### Certifications 
 
