@@ -39,8 +39,8 @@ What drives my passion for programming is the opportunity to harness the power o
 - UMBC Software Developer Foundations Professional Certificate
 - Google Data Analytics Certificate
 
-### Resume
-[Michael Gugliotti Resume](/assets/Michael-Gugliotti-Resume.pdf){:target="_blank" rel="noopener"}
+<!--- ### Resume
+[Michael Gugliotti Resume](/assets/Michael-Gugliotti-Resume.pdf){:target="_blank" rel="noopener"} -->
 
 ### Connect
 [mgug1455@gmail.com](mailto:mgug1455@gmail.com){:target="_blank" rel="noopener"}
