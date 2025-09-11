@@ -44,14 +44,3 @@ a { color:#87E5FF; } a:hover { color:#DCFF73; }
 code, pre { background:#757575; color:#e8e8e8; }
 table, th, td { border-color: rgba(255,255,255,.15); }
 blockquote { border-left-color: rgba(255,255,255,.15); }
-
-$logo-url: "/assets/faust2.jpeg";
-.site-title {
-  display: inline-flex;
-  align-items: center;
-  min-height: 96px;
-  padding-left: 108px;
-  background: url(#{$logo-url}) no-repeat left center;
-  background-size: 300px 300px;  /* tweak size */
-}
-
