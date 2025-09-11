@@ -40,10 +40,36 @@ a { color:#87E5FF; } a:hover { color:#DCFF73; }
 #programming ~ ul li:nth-child(6) > * > strong:first-child { color:#8de0ff; } /* AV */
 
 
-
-
-
 /* code & tables */
 code, pre { background:#757575; color:#e8e8e8; }
 table, th, td { border-color: rgba(255,255,255,.15); }
 blockquote { border-left-color: rgba(255,255,255,.15); }
+
+
+/* Make the header logo image larger */
+.site-title img,
+.site-header .site-logo,
+.site-header .wrapper > img {
+  height: 120px !important;   
+  width: auto !important;
+  margin-right: 12px;
+  border-radius: 10px;         
+  vertical-align: middle;
+}
+
+/* Keep the title aligned next to the bigger logo */
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+/* Mobile */
+@media (max-width: 640px) {
+  .site-title img,
+  .site-header .site-logo,
+  .site-header .wrapper > img {
+    height: 72px !important;
+  }
+}
+
