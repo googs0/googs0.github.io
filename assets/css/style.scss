@@ -4,34 +4,17 @@
 /* import the Minimal theme first */
 @import "{{ site.theme }}";
 
-/* ===== Enlarge header logo (Minimal theme) ===== */
-
-/* Make the logo image bigger (covers common renderings) */
-.site-header .site-title img,
-.site-header .site-logo,
-.site-header .wrapper > img {
-  height: 120px !important;   /* <- adjust this number to taste */
-  width: auto !important;
-  margin-right: 12px;
-  border-radius: 10px;         /* optional */
-  vertical-align: middle;
-  max-height: none !important;
-}
-
-/* Keep the title aligned next to the bigger logo */
-.site-header .wrapper {
-  display: flex;
+$logo-url: "{{ site.logo | relative_url }}";
+.site-title {
+  display: inline-flex;
   align-items: center;
-  gap: 12px;
+  min-height: 96px;           /* room for the image */
+  padding-left: 108px;        /* space for image + gap */
+  background: url(#{$logo-url}) no-repeat left center;
+  background-size: 96px 96px; /* adjust to taste */
 }
-
-/* Mobile scale-down */
 @media (max-width: 640px) {
-  .site-header .site-title img,
-  .site-header .site-logo,
-  .site-header .wrapper > img {
-    height: 72px !important;
-  }
+  .site-title { min-height: 72px; padding-left: 84px; background-size: 72px 72px; }
 }
 
 
