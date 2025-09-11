@@ -45,15 +45,13 @@ code, pre { background:#757575; color:#e8e8e8; }
 table, th, td { border-color: rgba(255,255,255,.15); }
 blockquote { border-left-color: rgba(255,255,255,.15); }
 
-
-/* Pull logo path from config (works whether you build from /docs or /root) */
-$logo-url: "{{ site.logo | relative_url }}";
-
+$logo-url: "/assets/faust2.jpeg";
 .site-title {
   display: inline-flex;
   align-items: center;
   min-height: 96px;
   padding-left: 108px;
   background: url(#{$logo-url}) no-repeat left center;
-  background-size: 400px 400px;  /* tweak size */
+  background-size: 300px 300px;  /* tweak size */
 }
+
