@@ -12,7 +12,7 @@
 I like to make things. I like to build things. I like to break things—and fix them better. I’m obsessed with sound and light. Musician and artist by nature, I’m now designing tools that describe audio and lighting with numbers instead of recordings, so people can fix spaces ethically and without sacrificing privacy. Off the clock I’m with my dog Morphy, making music, painting, reading, cooking, or hunting for a fresh skate spot. I wandered into code through art; respect for people keeps me here.
 
 ### a few projects
-- [AV-SAFE Toolkit](https://github.com/googs0/av-safe-toolkit)
+- [AV-SAFE Toolkit](https://github.com/googs0/av-safe-toolkit){:target="_blank" rel="noopener"}
 - [Biometric AV Performance Engine](https://github.com/googs0/AudiovisualBiophysicalPerformanceEngine){:target="_blank" rel="noopener"}
 - [NLP Text Analysis with Bram Stoker's "Dracula"](https://github.com/googs0/DraculaTextAnalyticsNLP){:target="_blank" rel="noopener"}
 - [FrameJam: Artistic Video Processor](https://github.com/googs0/FrameJam){:target="_blank" rel="noopener"}
