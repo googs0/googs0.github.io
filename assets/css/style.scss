@@ -3,7 +3,6 @@
 
 /* import the Minimal theme first */
 @import "{{ site.theme }}";
-@import "{{ site.logo }}";
 
 /* dark palette */
 html{ color-scheme: dark; }
@@ -25,8 +24,8 @@ a { color:#87E5FF; } a:hover { color:#DCFF73; }
   color:#eaeaea;
 }
 
-.site-logo {
-          max-height: 10rem; /* Adjust this value to your liking */
+.logo {
+          max-height: 50rem; /* Adjust this value to your liking */
         }
 
 /* Color the labels (the bold words) for the list that follows the "Toolbox" heading
