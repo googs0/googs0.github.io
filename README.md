@@ -2,6 +2,8 @@
 
 art → code
 
+(assets/Profile_Picture_Orioles.jpg)
+
 ### toolbox 
 - **Languages:** Python, SQL, Go
 - **DSP/Science:** NumPy, pandas, SciPy
