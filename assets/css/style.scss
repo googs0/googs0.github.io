@@ -1,0 +1,29 @@
+---
+---
+
+/* import the Minimal theme first */
+@import "{{ site.theme }}";
+
+/* dark palette */
+html{ color-scheme: dark; }
+body { background: #0b0b0b; color: #eaeaea; }
+
+/* text & links */
+h1,h2,h3,h4,h5,h6 { color:#eaeaea; }
+p,li,blockquote { color:#eaeaea; }
+a { color:#7fd1ff; } a:hover { color:#ffd580; }
+
+/* header/nav/footer */
+.site-header, .site-footer {
+  background:#000;
+  border-top:1px solid rgba(255,255,255,.15);
+  border-bottom:1px solid rgba(255,255,255,.15);
+}
+.site-title, .site-title:visited, .site-nav .page-link, .site-description {
+  color:#eaeaea;
+}
+
+/* code & tables */
+code, pre { background:#121212; color:#e8e8e8; }
+table, th, td { border-color: rgba(255,255,255,.15); }
+blockquote { border-left-color: rgba(255,255,255,.15); }
