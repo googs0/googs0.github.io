@@ -24,6 +24,10 @@ a { color:#87E5FF; } a:hover { color:#DCFF73; }
   color:#eaeaea;
 }
 
+.logo {
+          max-height: 10rem; /* Adjust this value to your liking */
+        }
+
 /* Color the labels (the bold words) for the list that follows the "Toolbox" heading
    Robust to themes that wrap list text in <p> and to extra content between the heading and the list. */
 #programming ~ ul li > strong:first-child,
