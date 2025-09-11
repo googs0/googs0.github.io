@@ -1,8 +1,6 @@
 ## googs0.github.io
 
-art → code
-
-### toolbox 
+### programming 
 - **Languages:** Python, SQL, Go
 - **DSP/Science:** NumPy, pandas, SciPy
 - **Visualization:** Matplotlib, Plotly
