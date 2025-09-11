@@ -11,7 +11,7 @@ $logo-url: "{{ site.logo | relative_url }}";
   min-height: 96px;           /* room for the image */
   padding-left: 108px;        /* space for image + gap */
   background: url(#{$logo-url}) no-repeat left center;
-  background-size: 96px 96px; /* adjust to taste */
+  background-size: 500px 500px; /* adjust to taste */
 }
 @media (max-width: 640px) {
   .site-title { min-height: 72px; padding-left: 84px; background-size: 72px 72px; }
