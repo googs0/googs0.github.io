@@ -26,7 +26,7 @@ a { color:#87E3FF; } a:hover { color:#DCFF73; }
 /* Color the labels (the bold words) for the list that follows the "Toolbox" heading */
 #toolbox + ul li > strong:first-child,
 #toolbox + ul li > p > strong:first-child {   /* some themes wrap list text in <p> */
-  color: var(--accent, #40FFA4);
+  color: var(--accent, #4AFF7D);
   font-weight: 700;
 }
 
