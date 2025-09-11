@@ -24,12 +24,20 @@ a { color:#87E5FF; } a:hover { color:#DCFF73; }
   color:#eaeaea;
 }
 
+    // _sass/_custom.scss
+    .site-logo img { // Adjust selector based on your theme
+      width: 150px;
+      height: auto; /* Maintain aspect ratio */
+      max-width: 100%; /* Ensure responsiveness */
+    }
 
-    // Example targeting an image within a specific container
-    .header-branding img {
+    // Example for a background image logo (if applicable)
+    .site-title::before {
+      background-image: url(assets/faust2.jpg);
       width: 100px;
       height: 100px;
-      object-fit: contain; // Adjust as needed
+      background-size: contain; /* or cover */
+      // Other styling as needed
     }
 
 
