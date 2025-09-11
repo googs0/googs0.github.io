@@ -6,7 +6,7 @@ art → code
 - **Languages:** Python, SQL, Go
 - **DSP/Science:** NumPy, pandas, SciPy
 - **Visualization:** Matplotlib, Plotly
-- **Back end:** FastAPI, SQLite
+- **Back end:** SQLite, FastAPI
 - **Machine Learning/NLP**: Tensorflow, PyTorch, Wekinator, NLTK
 - **AV:** Max8
 
