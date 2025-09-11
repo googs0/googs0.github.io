@@ -24,9 +24,7 @@ a { color:#87E5FF; } a:hover { color:#DCFF73; }
   color:#eaeaea;
 }
 
-.logo {
-          max-height: 50rem; /* Adjust this value to your liking */
-        }
+{{ /assets/faust2.jpg:img?width=250 alt='faust2' }}
 
 /* Color the labels (the bold words) for the list that follows the "Toolbox" heading
    Robust to themes that wrap list text in <p> and to extra content between the heading and the list. */
