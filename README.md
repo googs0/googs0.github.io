@@ -2,7 +2,7 @@
 
 art → code
 
-[<img src="assets/Profile_Picture_Orioles.jpg">](https://github.com/googs0/googs0.github.io/tree/main/assets/Profile_Picture_Orioles.jpg)
+ [<img src="assets/faust2.jpg">](https://github.com/googs0/googs0.github.io/tree/main/assets/faust2.jpg)
 
 ### toolbox 
 - **Languages:** Python, SQL, Go
