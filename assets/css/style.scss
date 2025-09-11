@@ -39,6 +39,29 @@ a { color:#87E5FF; } a:hover { color:#DCFF73; }
 #toolbox + ul li:nth-child(6) > * > strong:first-child { color:#8de0ff; } /* AV */
 
 
+
+/* Enlarge the Minimal theme header logo */
+.site-header .site-logo {
+  height: 112px;   /* adjust this number to taste */
+  width: auto;
+  border-radius: 10px;     /* optional: rounded corners */
+  margin-right: 12px;      /* breathing room before the title */
+  box-shadow: 0 2px 10px rgba(0,0,0,.15); /* optional */
+}
+
+/* Align title vertically with the larger logo */
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+/* Mobile: scale down a bit */
+@media (max-width: 640px) {
+  .site-header .site-logo { height: 72px; }
+}
+
+
 /* code & tables */
 code, pre { background:#757575; color:#e8e8e8; }
 table, th, td { border-color: rgba(255,255,255,.15); }
