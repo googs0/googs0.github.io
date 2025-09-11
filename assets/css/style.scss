@@ -46,30 +46,45 @@ table, th, td { border-color: rgba(255,255,255,.15); }
 blockquote { border-left-color: rgba(255,255,255,.15); }
 
 
-/* Make the header logo image larger */
+/* Pull logo path from config (works whether you build from /docs or /root) */
+$logo-url: "{{ site.logo | relative_url }}";
+
+/* Option A: Enlarge the theme's <img> logo if it exists */
 .site-title img,
 .site-header .site-logo,
 .site-header .wrapper > img {
-  height: 120px !important;   
+  height: 300px !important;   /* tweak size */
   width: auto !important;
   margin-right: 12px;
-  border-radius: 10px;         
+  border-radius: 10px;
   vertical-align: middle;
 }
 
-/* Keep the title aligned next to the bigger logo */
+/* Keep the header layout tidy with a bigger logo */
 .site-header .wrapper {
   display: flex;
   align-items: center;
   gap: 12px;
 }
 
-/* Mobile */
+/* Option B: If your theme isn't rendering an <img>, paint the logo behind the title */
+.site-title {
+  display: inline-flex;
+  align-items: center;
+  min-height: 96px;                  /* reserve space for the image */
+  padding-left: 108px;               /* space for image + gap */
+  background: url(#{$logo-url}) no-repeat left center;
+  background-size: 96px 96px;        /* tweak size */
+}
+
+/* Mobile scaling */
 @media (max-width: 640px) {
   .site-title img,
   .site-header .site-logo,
-  .site-header .wrapper > img {
-    height: 72px !important;
+  .site-header .wrapper > img { height: 72px !important; }
+  .site-title {
+    min-height: 72px;
+    padding-left: 84px;
+    background-size: 72px 72px;
   }
 }
-
