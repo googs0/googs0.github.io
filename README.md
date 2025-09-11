@@ -2,8 +2,6 @@
 
 art → code
 
- [<img src="assets/faust2.jpg">](https://github.com/googs0/googs0.github.io/tree/main/assets/faust2.jpg)
-
 ### toolbox 
 - **Languages:** Python, SQL, Go
 - **DSP/Science:** NumPy, pandas, SciPy
