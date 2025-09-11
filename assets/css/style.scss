@@ -23,6 +23,11 @@ a { color:#87E3FF; } a:hover { color:#DCFF73; }
   color:#eaeaea;
 }
 
+.skills .label{
+  color: var(--accent, #6A80A3);
+  font-weight: 700;
+}
+
 /* code & tables */
 code, pre { background:#757575; color:#e8e8e8; }
 table, th, td { border-color: rgba(255,255,255,.15); }
