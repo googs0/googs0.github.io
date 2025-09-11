@@ -1,6 +1,6 @@
 ## googs0.github.io
 
-## programming 
+### programming 
 - **Languages:** Python, SQL, Go
 - **DSP/Science:** NumPy, pandas, SciPy
 - **Visualization:** Matplotlib, Plotly
@@ -8,14 +8,10 @@
 - **Machine Learning/NLP**: Tensorflow, PyTorch, Wekinator, NLTK
 - **AV:** Max8
   
-<br>
-
-## about
+### about
 I like to make things. I like to build things. I like to break things—and fix them better. I’m obsessed with sound and light. Musician and artist by nature, I’m now designing tools that describe audio and lighting with numbers instead of recordings, so people can fix spaces ethically and without sacrificing privacy. Off the clock I’m with my dog Morphy, making music, painting, reading, cooking, or hunting for a fresh skate spot. I wandered into code through art; respect for people keeps me here.
 
-<br>
-
-## a few projects
+### a few projects
 - [AV-SAFE Toolkit](https://github.com/googs0/av-safe-toolkit)
 - [Biometric AV Performance Engine](https://github.com/googs0/AudiovisualBiophysicalPerformanceEngine){:target="_blank" rel="noopener"}
 - [NLP Text Analysis with Bram Stoker's "Dracula"](https://github.com/googs0/DraculaTextAnalyticsNLP){:target="_blank" rel="noopener"}
@@ -24,15 +20,11 @@ I like to make things. I like to build things. I like to break things—and fix 
 - [MLB Sabermetric Player Statistics Processor](https://github.com/googs0/PlayerDataProcessorMLB){:target="_blank" rel="noopener"}
 - [National Park (US) Advanced Data Explorer](https://github.com/googs0/NationalParkDataSyncTool){:target="_blank" rel="noopener"}
 
-<br>
-
-## certifications 
+### certifications 
 [Badges](https://www.credly.com/users/michael-gugliotti/badges){:target="_blank" rel="noopener"}
-
-<br>
 
 <!--- ### Resume
 [Michael Gugliotti Resume](/assets/Michael-Gugliotti-Resume.pdf){:target="_blank" rel="noopener"} -->
 
-## Connect
+### Connect
 [mgug1455@gmail.com](mailto:mgug1455@gmail.com){:target="_blank" rel="noopener"}
