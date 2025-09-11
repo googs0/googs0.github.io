@@ -44,3 +44,45 @@ a { color:#87E5FF; } a:hover { color:#DCFF73; }
 code, pre { background:#757575; color:#e8e8e8; }
 table, th, td { border-color: rgba(255,255,255,.15); }
 blockquote { border-left-color: rgba(255,255,255,.15); }
+
+
+
+/* Make the header logo bigger (covers Minimal’s common outputs) */
+.site-title img,
+.site-header .site-logo,
+.site-header .wrapper > img {
+  height: 120px !important;   /* tweak to taste */
+  width: auto !important;
+  margin-right: 12px;
+  border-radius: 10px;         /* optional */
+  vertical-align: middle;
+}
+
+/* Keep title aligned next to bigger logo */
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+/* Fallback: paint the logo behind the title even if the theme doesn’t render <img> */
+$logo-url: "{{ site.logo | relative_url }}";
+.site-title {
+  display: inline-flex;
+  align-items: center;
+  min-height: 96px;
+  padding-left: 108px;                /* space for image + gap */
+  background: url(#{$logo-url}) no-repeat left center;
+  background-size: 96px 96px;         /* tweak size */
+}
+
+@media (max-width: 640px) {
+  .site-title img,
+  .site-header .site-logo,
+  .site-header .wrapper > img { height: 72px !important; }
+  .site-title {
+    min-height: 72px;
+    padding-left: 84px;
+    background-size: 72px 72px;
+  }
+}
