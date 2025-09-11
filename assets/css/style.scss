@@ -25,19 +25,19 @@ a { color:#87E5FF; } a:hover { color:#DCFF73; }
 
 /* Color the labels (the bold words) for the list that follows the "Toolbox" heading
    Robust to themes that wrap list text in <p> and to extra content between the heading and the list. */
-#toolbox ~ ul li > strong:first-child,
-#toolbox ~ ul li > p > strong:first-child {
+#programming ~ ul li > strong:first-child,
+#programming ~ ul li > p > strong:first-child {
   color: var(--accent, #4AFF7D);
   font-weight: 700;
 }
 
 /* Optional: different color per row (order-based) — updated to use ~ as well */
-#toolbox ~ ul li:nth-child(1) > * > strong:first-child { color:#7fd1ff; } /* Languages */
-#toolbox ~ ul li:nth-child(2) > * > strong:first-child { color:#b6f5b6; } /* DSP/Science */
-#toolbox ~ ul li:nth-child(3) > * > strong:first-child { color:#ffd580; } /* Visualization */
-#toolbox ~ ul li:nth-child(4) > * > strong:first-child { color:#c9b6ff; } /* Back end */
-#toolbox ~ ul li:nth-child(5) > * > strong:first-child { color:#ff9fb3; } /* ML/NLP */
-#toolbox ~ ul li:nth-child(6) > * > strong:first-child { color:#8de0ff; } /* AV */
+#programming ~ ul li:nth-child(1) > * > strong:first-child { color:#7fd1ff; } /* Languages */
+#programming ~ ul li:nth-child(2) > * > strong:first-child { color:#b6f5b6; } /* DSP/Science */
+#programming ~ ul li:nth-child(3) > * > strong:first-child { color:#ffd580; } /* Visualization */
+#programming ~ ul li:nth-child(4) > * > strong:first-child { color:#c9b6ff; } /* Back end */
+#programming ~ ul li:nth-child(5) > * > strong:first-child { color:#ff9fb3; } /* ML/NLP */
+#programming ~ ul li:nth-child(6) > * > strong:first-child { color:#8de0ff; } /* AV */
 
 
 
