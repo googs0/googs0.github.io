@@ -24,7 +24,18 @@ a { color:#87E5FF; } a:hover { color:#DCFF73; }
   color:#eaeaea;
 }
 
-{{ /assets/faust2.jpg:img?width=250 alt='faust2' }}
+/* Example for a logo with the class "site-logo" */
+.site-logo {
+  max-width: 250px; /* Adjust this value to your desired size */
+  height: auto; /* Maintains aspect ratio */
+}
+
+/* Example for an img tag nested inside a .site-title container */
+.site-title img {
+  max-height: 100px; /* Adjust this value */
+  width: auto;
+}
+
 
 /* Color the labels (the bold words) for the list that follows the "Toolbox" heading
    Robust to themes that wrap list text in <p> and to extra content between the heading and the list. */
