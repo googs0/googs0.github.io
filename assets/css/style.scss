@@ -24,15 +24,6 @@ a { color:#87E5FF; } a:hover { color:#DCFF73; }
   color:#eaeaea;
 }
 
-    // Example for a background image logo (if applicable)
-    .site-title::before {
-      background-image: url(assets/faust2.jpg);
-      width: 100px;
-      height: 100px;
-      background-size: contain; /* or cover */
-      // Other styling as needed
-    }
-
 
 /* Color the labels (the bold words) for the list that follows the "Toolbox" heading
    Robust to themes that wrap list text in <p> and to extra content between the heading and the list. */
