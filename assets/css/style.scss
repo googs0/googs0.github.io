@@ -23,12 +23,12 @@ a { color:#87E3FF; } a:hover { color:#DCFF73; }
   color:#eaeaea;
 }
 
-.skills .label[data-cat="lang"]    { color:#7fd1ff; }  /* blue */
-.skills .label[data-cat="dsp"]     { color:#b6f5b6; }  /* green */
-.skills .label[data-cat="viz"]     { color:#ffd580; }  /* amber */
-.skills .label[data-cat="backend"] { color:#c9b6ff; }  /* purple */
-.skills .label[data-cat="ml"]      { color:#ff9fb3; }  /* pink */
-.skills .label[data-cat="av"]      { color:#8de0ff; }
+.skills .label[data-cat="Languages:"]    { color:#7fd1ff; }  /* blue */
+.skills .label[data-cat="DSP/Science:"]     { color:#b6f5b6; }  /* green */
+.skills .label[data-cat="Visualization:"]     { color:#ffd580; }  /* amber */
+.skills .label[data-cat="Backend:"] { color:#c9b6ff; }  /* purple */
+.skills .label[data-cat="Machine Learning/NLP:"]      { color:#ff9fb3; }  /* pink */
+.skills .label[data-cat="AV"]      { color:#8de0ff; }
 
 /* code & tables */
 code, pre { background:#757575; color:#e8e8e8; }
