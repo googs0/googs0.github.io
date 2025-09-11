@@ -24,17 +24,19 @@ a { color:#87E5FF; } a:hover { color:#DCFF73; }
   color:#eaeaea;
 }
 
-/* Example for a logo with the class "site-logo" */
-.site-logo {
-  max-width: 250px; /* Adjust this value to your desired size */
-  height: auto; /* Maintains aspect ratio */
-}
+    // Example targeting an image with a specific class
+    .site-logo {
+      width: 150px; // Set desired width
+      height: auto; // Maintain aspect ratio
+      max-width: 100%; // Ensure responsiveness
+    }
 
-/* Example for an img tag nested inside a .site-title container */
-.site-title img {
-  max-height: 100px; /* Adjust this value */
-  width: auto;
-}
+    // Example targeting an image within a specific container
+    .header-branding img {
+      width: 100px;
+      height: 100px;
+      object-fit: contain; // Adjust as needed
+    }
 
 
 /* Color the labels (the bold words) for the list that follows the "Toolbox" heading
