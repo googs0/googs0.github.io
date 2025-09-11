@@ -1,5 +1,6 @@
 title: Michael Gugliotti
 description: Programming Portfolio
 show_downloads: true
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
+logo: /assets/faust2.jpg
 markdown: kramdown
