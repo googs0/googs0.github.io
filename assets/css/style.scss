@@ -3,6 +3,7 @@
 
 /* import the Minimal theme first */
 @import "{{ site.theme }}";
+@import "{{ site.logo }}";
 
 /* dark palette */
 html{ color-scheme: dark; }
