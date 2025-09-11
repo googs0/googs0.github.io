@@ -4,6 +4,37 @@
 /* import the Minimal theme first */
 @import "{{ site.theme }}";
 
+/* ===== Enlarge header logo (Minimal theme) ===== */
+
+/* Make the logo image bigger (covers common renderings) */
+.site-header .site-title img,
+.site-header .site-logo,
+.site-header .wrapper > img {
+  height: 120px !important;   /* <- adjust this number to taste */
+  width: auto !important;
+  margin-right: 12px;
+  border-radius: 10px;         /* optional */
+  vertical-align: middle;
+  max-height: none !important;
+}
+
+/* Keep the title aligned next to the bigger logo */
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+/* Mobile scale-down */
+@media (max-width: 640px) {
+  .site-header .site-title img,
+  .site-header .site-logo,
+  .site-header .wrapper > img {
+    height: 72px !important;
+  }
+}
+
+
 /* dark palette */
 html{ color-scheme: dark; }
 body { background: #13161C; color: #eaeaea; }
