@@ -26,5 +26,5 @@ I like to make things. I like to build things. I like to break things—and (hop
 <!--- ### Resume
 [Michael Gugliotti Resume](/assets/Michael-Gugliotti-Resume.pdf){:target="_blank" rel="noopener"} -->
 
-### Connect
+### connect
 [mgug1455@gmail.com](mailto:mgug1455@gmail.com){:target="_blank" rel="noopener"}
