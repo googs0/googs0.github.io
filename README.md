@@ -1,10 +1,10 @@
 ## googs0.github.io
 
 ### programming 
-- **Languages:** Python, SQL, Go
+- **Languages:** Python, Go
 - **DSP/Science:** NumPy, pandas, SciPy
 - **Visualization:** Matplotlib, Plotly
-- **Back end:** SQLite, FastAPI
+- **Databases:** SQL
 - **Machine Learning/NLP**: Tensorflow, PyTorch, Wekinator, NLTK
 - **AV:** Max8
   
