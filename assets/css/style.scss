@@ -47,8 +47,14 @@ code, pre { background:#757575; color:#e8e8e8; }
 table, th, td { border-color: rgba(255,255,255,.15); }
 blockquote { border-left-color: rgba(255,255,255,.15); }
 
-/* logo resize */
-img[alt="Logo"] {
-    width: 1500px; 
-    height: auto; 
+.site-header img[alt="Logo"] {
+  height: 1200px !important;
+  width: auto !important;
+  max-height: none !important;
 }
+
+/* logo resize */
+// img[alt="Logo"] {
+    // width: 1500px; 
+    // height: auto; 
+// }
