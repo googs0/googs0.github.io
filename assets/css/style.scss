@@ -47,27 +47,7 @@ code, pre { background:#757575; color:#e8e8e8; }
 table, th, td { border-color: rgba(255,255,255,.15); }
 blockquote { border-left-color: rgba(255,255,255,.15); }
 
-/* Bigger logo control */
-:root { --logo-height: 200px; } /* tweak this */
-
-/* If your logo sits in the header */
-.site-header .site-logo {
-  height: var(--logo-height) !important;
-  width: auto !important;
-  max-height: none !important;
-  display: inline-block;
-  vertical-align: middle;
-}
-
-/* Improve header spacing/alignment */
-.site-header .wrapper { display: flex; align-items: center; gap: 12px; }
-.site-title { margin-left: .5rem; } /* only if title text sits next to logo */
-
-/* Prevent clipping if the theme constrains the header */
-.site-header { padding: 0.6rem 0; }
-
-/* Responsive downsize on phones */
-@media (max-width: 480px) {
-  :root { --logo-height: 48px; }
-}
-
+.site-logo img {
+  max-height: 150px; /* Adjust as needed */
+  width: auto; /* Maintain aspect ratio */
+    }
