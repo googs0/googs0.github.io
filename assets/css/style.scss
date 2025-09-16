@@ -48,9 +48,10 @@ table, th, td { border-color: rgba(255,255,255,.15); }
 blockquote { border-left-color: rgba(255,255,255,.15); }
 
 img[alt="Logo"] {
-  height: 400px !important;
-  width: auto !important;
+  width: 512 !important;
+  height: auto !important;
   max-height: none !important;
+  max-width: none !important;
 }
 
 /* logo resize */
